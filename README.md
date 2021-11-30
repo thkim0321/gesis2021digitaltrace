@@ -11,7 +11,7 @@ Welcome to the workshop! You will find workshop materials in this repository.
 
 ### Twitter Developer Account
 Before the course begins, participants need to apply for a developer account, which you will need to access Twitter API. You can find detailed explanation of the process at Twitter developer webpage: https://developer.twitter.com/ (Note that you need to prepare a valid Twitter account beforehand).  The reviewing process usually take a couple of days, but it can take weeks. Even if you do not get approved before the workshop starts,
-I can give you a temporary access that is valid during the workshop period. You need to (1) prepare a valid Twitter account and **(2) let me know your @user_name of your account via e-mail before December 8th:exclamation:** so that we can start the workshop smoothly. Note that email notification from Twitter must be activated.
+I can give you a temporary access that is valid during the workshop period. You need to (1) prepare a valid Twitter account and **(2) let me know your @user_name of your account via e-mail before December 8th:exclamation:** so that we can start the workshop smoothly ([Email to lecturer](mailto:taehee.kim@uol.de)). Note that email notification from Twitter must be activated.
 Please check [this document](Slides/Get_acces_to_Twitter_APIs.pdf) for more detail.
 
 
