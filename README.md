@@ -7,6 +7,21 @@ Welcome to the workshop! You will find workshop materials in this repository.
 :star: [Time plan](Slides/Agenda.pdf)
 
 ---
+## Day 1
+#### What we have done today..
+- [gesis2021_intro.pdf](Slides/gesis2021_intro.pdf)
+- [gesis2021_twitter_intro.pdf](Slides/gesis2021_twitter_intro.pdf)
+- [twitter_api_gesis2021.pdf](Slides/twitter_api_gesis2021.pdf)
+
+#### R Codes
+You can find today's code log here: [workshop_log_day1.R](Rcodes/workshop_log_day1.R)
+
+Also, here is the code for the exercise collecting user objects of the candidates in BW and their friends: [bw_candidate.R](Rcodes/bw_candidate.R)
+
+
+
+
+---
 ## Preparation
 
 ### Twitter Developer Account
