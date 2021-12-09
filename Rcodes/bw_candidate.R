@@ -30,11 +30,11 @@ dim(bw_user_obj) # we collected 67 user objects.
 
 
 # Get friends
-bw_id_67 <- bw_user_obj$user_id # create a vector containing user_id
-bw_67user_friends <- get_friends(bw_id_67, retryonratelimit = TRUE) # This code takes about an hour
+bw_id_get_friend <- subset(bw_user_obj$user_id, bw_user_obj$friends_count > 0)
+bw_friends <- get_friends(bw_id_get_friend, retryonratelimit = TRUE) # This code takes about an hour
 
 # save data
-save(bw_user_obj, bw_67user_friends, file = "bw_user_friends.RData")
+save(bw_user_obj, bw_friends, file = "bw_user_friends.RData")
 
 
 
