@@ -22,8 +22,9 @@ Also, here is the code for the exercise collecting user objects of the candidate
 ---
 
 ## Day 2
-- [gesis2021_basic_stats](Slides/gesis_2021_basic_stats.pdf)
+- [gesis2021_basic_stats](Slides/gesis2021_basic_stats.pdf)
 - [gesis2021_network](Slides/gesis2021_network.pdf)
+  - [Network introduction](Slides/intro_network.pdf)
 - [gesis2021_wordcloud](Slides/gesis2021_wordcloud.pdf)
 
 
