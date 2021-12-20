@@ -19,6 +19,13 @@ You can find today's code log here: [workshop_log_day1.R](Rcodes/workshop_log_da
 Also, here is the code for the exercise collecting user objects of the candidates in BW and their friends: [bw_candidate.R](Rcodes/bw_candidate.R)
 
 
+---
+
+## Day 2
+- [gesis2021_basic_stats](Slides/gesis_2021_basic_stats.pdf)
+- [gesis2021_network](Slides/gesis2021_network.pdf)
+- [gesis2021_wordcloud](Slides/gesis2021_wordcloud.pdf)
+
 
 
 ---
